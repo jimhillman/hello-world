@@ -1,2 +1,3 @@
 # hello-world
 Just another repository
+Hi! I'm jim and I'm playing with this thing. I like Python...
